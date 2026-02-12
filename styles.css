@@ -1,0 +1,91 @@
+
+.the_sweets{
+    position: relative;
+    text-align: center;
+}
+
+.sweet{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    margin: 3vh;
+}
+
+.download img{
+ width: 60vh;
+}
+
+.download{
+ text-align: center;
+ position: relative;
+}
+
+.download_button{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-style: oblique;
+ width: 9em;
+ height: 3em;
+ margin-top: 2vh;
+ margin-bottom: 2vh;
+ text-align: center;
+ position: relative;
+ border-radius: 40px;
+ border-width: 3px;
+ border-color: rgb(128, 37, 98);
+ color: black;
+ background-color: rgb(255, 184, 228);
+}
+
+.download_button:hover{
+  background-color:rgb(212, 80, 139);
+  color: beige;
+}
+
+.download_button:active{
+  background-color:rgb(70, 16, 53);
+  color: beige;
+}
+
+
+.back_button{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-style: oblique;
+ width: 8em;
+ height: 3em;
+ margin-top: 1vh;
+ margin-bottom: 2vh;
+ text-align: center;
+ position: relative;
+ border-radius: 40px;
+ border-width: 3px;
+border-color: rgb(81, 36, 71);
+ color: black;
+ background-color: rgb(255, 168, 204);
+ text-align: center;
+ position: relative;
+}
+
+.back_button:hover{
+  background-color:rgb(235, 71, 161);
+  color: beige;
+}
+
+.back_button:active{
+  background-color:rgb(120, 31, 99);
+  color: beige;
+}
+
+.back{
+    text-align: center;
+ position: relative;
+}
+
+h1, h2, h3{
+     text-align: center;
+ position: relative;
+ color: rgb(176, 45, 95);
+
+}
